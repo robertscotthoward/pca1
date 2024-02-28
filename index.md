@@ -1,6 +1,6 @@
 # This is my first home page
 
-Hello
+Hello, see [a dog](page2.md).
 
 ## Sub header
 
