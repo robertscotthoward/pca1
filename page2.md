@@ -1,13 +1,10 @@
 # This is my second page2
 
-Here is a dog.
+An inline formula $f(x) = 3 x^2$ is here.
 
-
-
-
-I am hoping to use mermaid in GitHub-pages, with simple commit and push.
-
-In other words, I am hoping to wirte in my markdown file like this
+$$
+f(x) = \int_{-\infty}^\infty \hat f(\xi) \,e ^ {2 ^ \pi i \xi x}
+$$
 
 ```mermaid
 graph LR
@@ -16,5 +13,6 @@ graph LR
    C -->D
 ```
 
+Here is a dog.
 
 ![Alt text](dog.webp)
